@@ -10,7 +10,7 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 ##### September 
 
-**2 - First Class.**  The first class will feature only a quick review of the mechanics of the class since the details are all in the syllabus and then move into a review of foundational concepts and authors related to the rise of computers both in and of themselves and as machines that both shape and are shaped by culture.  This first class will focus less on authors and more on general concepts, questions, and ideas of relevance.
+**2 - First Class.**  The first class will feature only a quick review of the mechanics of the class since the details are all in the syllabus and then move into a review of foundational concepts and authors related to the rise of computers both in and of themselves and as machines that both shape and are shaped by culture.  This first class will focus less on authors and more on general concepts, questions, and ideas of relevance, some of which will be prompted by the [ITU database](http://www.itu.int/net4/itu-d/icteye/) and the [ITU's Measuring the Information Society Report](http://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2015.aspx).
 
 **5 - Labour Day, University Holiday, No Class.**
 
