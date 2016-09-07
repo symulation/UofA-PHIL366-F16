@@ -37,28 +37,28 @@ The theory centred evaluation option is the default.  Those wishing to opt-in to
 ### Theory Centred Evaluation
 | Component | Weight | Due | 
 |---|---|---|
-| Five pieces of draft writing | 10% (all or nothing) | see description |
-| Three best pieces of revised writing | 60% (3 x 20%) | see description |
+| Five pieces of draft thinking | 10% (all or nothing) | see description |
+| Three best pieces of revised thinking | 60% (3 x 20%) | see description |
 | Final exam | 30% | December 15 |
 
-Five pieces of draft writing must be submitted over the term that are further developments of in-class discussions.  To count towards the "all or nothing" criteria these initial pieces of writing must be at least 500 words each and be assessed as "acceptable" based on the draft assessment rubric.  These must be submitted within one week of the conclusion of the in-class discussion that they draw on.  These five pieces of writing will be assessed on an "all or nothing" basis.  If all five pieces are submitted and meet the criteria then the full 10% will be assessed.  If even one piece is subpar on not submitted then the mark given for this section will be 0.
+Five pieces of draft thinking must be submitted over the term that are further developments of in-class discussions.  To count towards the "all or nothing" criteria these initial pieces of writing must be at least 500 words each and be assessed as "satisfactory" based on the draft assessment rubric.  These must be submitted within one week of the conclusion of the in-class discussion that they draw on.  These five pieces of writing will be assessed on an "all or nothing" basis.  If all five pieces are submitted and meet the criteria then the full 10% will be assessed.  If even one piece is subpar on not submitted then the mark given for this section will be 0.
 
-At least three pieces of draft writing---one from each of topics 2, 3, and 4---must be revised and expanded to at least 1000 words based on the comments received and resubmitted.  At most _one_ of these can be further revised.  These revisions must be resubmitted no later than two weeks after either the return of the draft with comments _or_ the conclusion of the topic as a whole, whichever is later.  The best revised piece from each topic will make the contribution to the final grade.
+At least three pieces of draft thinking---one from each of topics 2, 3, and 4---must be revised and expanded to at least 1000 words based on the comments received and resubmitted.  At most _one_ of these can be further revised.  These revisions must be resubmitted no later than two weeks after either the return of the draft with comments _or_ the conclusion of the topic as a whole, whichever is later.  The best revised piece from each topic will make the contribution to the final grade.
 
 ### Theory-Practice Blended Evaluation
 | Component | Weight | Due | 
 |---|---|---|
-| Three pieces of draft writing | 5% (all or nothing) | see description |
-| Best piece of revised writing | 20% | see description |
+| Three pieces of draft thinking | 5% (all or nothing) | see description |
+| Best piece of revised thinking | 20% | see description |
 | CSL Experience Reflections | 25% (4 x 6.25%)| see description |
 | Activity/Lesson Plan | 20% | November 21 |
 | Final exam | 30% | December 15 |
 
-Three pieces of draft writing must be submitted over the term that are further developments of in-class discussions.  To count towards the "all or nothing" criteria these initial pieces of writing must be at least 500 words each and be assessed as "acceptable" based on the draft assessment rubric.  These must be submitted within one week of the conclusion of the in-class discussion that they draw on.  These five pieces of writing will be assessed on an "all or nothing" basis.  If all five pieces are submitted and meet the criteria then the full 10% will be assessed.  If even one piece is subpar on not submitted then the mark given for this section will be 0.
+Three pieces of draft thinking must be submitted over the term that are further developments of in-class discussions.  To count towards the "all or nothing" criteria these initial pieces of writing must be at least 500 words each and be assessed as "satisfactory" based on the draft assessment rubric.  These must be submitted within one week of the conclusion of the in-class discussion that they draw on.  These five pieces of writing will be assessed on an "all or nothing" basis.  If all five pieces are submitted and meet the criteria then the full 10% will be assessed.  If even one piece is subpar on not submitted then the mark given for this section will be 0.
 
-At least one pieces of draft writing---from either topics 3 or 4---must be revised and expanded to at least 1000 words based on the comments received and resubmitted.  At most _one_ of these can be further revised.  These revisions must be resubmitted no later than two weeks after either the return of the draft with comments _or_ the conclusion of the topic as a whole, whichever is later.  The best revised piece will make the contribution to the final grade.
+At least one piece of draft thinking---from either topics 3 or 4---must be revised and expanded to at least 1000 words based on the comments received and resubmitted.  At most _one_ of these can be further revised.  These revisions must be resubmitted no later than two weeks after either the return of the draft with comments _or_ the conclusion of the topic as a whole, whichever is later.  The best revised piece will make the contribution to the final grade.
 
-In addition to this writing four reflections on the CSL experience must be submitted during the term.  There is no minimum word limit on these but they must be based on one of at least three (possibly two, this will be confirmed once the number of participants in this stream is clear) sessions run with children through the program.
+In addition to this writing four reflections on the CSL experience must be submitted during the term.  There is no minimum word limit on these but they must be based on one of at least three (possibly two, this will be confirmed once the number of participants in this stream is clear) sessions run with children through the program.  At most two of these may be revised and resubmitted.
 
 Lastly, students in this stream will produce a simple, introductory activity/lesson plan for the EPL Makerspace that features one or more of the technologies available there.  This is likely 2-3 pages in length.## Community Service-LearningThis course has a partnership with the [Edmonton Public Library (EPL) Makerspace](http://www.epl.ca/browse_program/makerspace/) that will allow students who opt-in to the [Community Service-Learning (CSL)](https://www.ualberta.ca/community-service-learning/\) stream to spend time working on education programs for/with children at the EPL Makerspace.  Students who opt-in to this stream will follow the theory-practice evaluation path that substitutes reflections and educational program development work for some of the papers and writing that other students in the course will be responsible for.A full description of the CSL component will be given in class on September 7th and more details will be available on the course website by then as well.
 To opt-in students must attend the orientation at the EPL Makerspace on September 9th (or make arrangements for an alternate orientation directly with the EPL Makerspace) _and_ email the instructor before 11am on September 12th.
