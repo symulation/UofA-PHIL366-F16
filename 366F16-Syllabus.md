@@ -28,7 +28,7 @@ We have a partnership with the [Maker Space at the Edmonton Public Library](http
 
 For simplicity and openness this class will use a GitHub repository as its website: [https://github.com/symulation/UofA-PHIL366-F16](https://github.com/symulation/UofA-PHIL366-F16).  The majority of relevant materials for this class may be found here, including the most recent and accurate version of this syllabus.
 
-It should also be noted that the class will be encouraged to use either [Google Docs](https://docs.google.com) or [Etherpad](https://public.etherpad-mozilla.org/) to take collaborative notes during class.  We'll sort out which during the first few classes.## Evaulation
+It should also be noted that the class will be encouraged to use either [Google Docs](https://docs.google.com) or [Etherpad](https://public.etherpad-mozilla.org/) to take collaborative notes during class.  We'll sort out which during the first few classes.## Evaluation
 
 There are two evaluation options available.  The theory centred evaluation option targets students who are looking for a traditional class experience that involves focus on engaging primarily with theory and the time constraints of a classroom environment.  The theory-practice blended evaluation option targets students who are looking for a class experience that exposes them to some of the complexities of the real-world as they relate to the topic of computers in education.
 
