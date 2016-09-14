@@ -20,7 +20,7 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **12 - Continuing the Introduction.**  We will carry over the introduction from the 2nd and 7th by looking at important writing from [Vannevar Bush](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/), [Douglas Englebart](http://www.dougengelbart.org/firsts/dougs-1968-demo.html), and [Alan Turing](http://www.loebner.net/Prizef/TuringArticle.html).
 
-**14 - Concluding the Introduction.**  We will conclude the introduction from the previous classes by looking at the ideas of [Ted Nelson](http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf), [H. Marshall McLuhan (just Chapter 1)](http://site.ebrary.com.login.ezproxy.library.ualberta.ca/lib/ualberta/detail.action?docID=2002696) and [Donna Haraway](http://cast.b-ap.net/arc590s14/wp-content/uploads/sites/28/2014/03/haraway.pdf).
+**14 - Concluding the Introduction.**  We will conclude the introduction from the previous classes by looking at the ideas of [Ted Nelson](http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf), [H. Marshall McLuhan (just Chapter 1)](http://site.ebrary.com.login.ezproxy.library.ualberta.ca/lib/ualberta/detail.action?docID=2002696) and [Donna Haraway](http://cast.b-ap.net/arc590s14/wp-content/uploads/sites/28/2014/03/haraway.pdf).  [Here's a shared notetaking space for this topic.](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Intro)
 
 #### Topic #2 - Computer Programming in Formal Educational Systems
 
