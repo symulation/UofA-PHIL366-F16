@@ -4,6 +4,8 @@
 
 ##Steps for a Successful CSL Experience
 
+Note that the steps listed here are also summarized in this infographic (of sorts):  [placement-process-infographic-2016.pdf](placement-process-infographic-2016.pdf).
+
 **Step 1 - Choose your placement.** There is only one placement for this class and that is with the [Edmonton Public Library Makerspace](http://www.epl.ca/browse_program/makerspace/).  You can read more about this placement on the [CSL Portal](https://apps.arts.ualberta.ca/csl/Account/LogOn?ReturnUrl=%2fcsl). 
 
 **Step 2 - Review the Student Placement Process.**  In this class the placement process is straightforward because we have just one partner.  All an interested student needed to do (as outlined in [the course syllabus](../366f16-syllabus.pdf)) was email the instructor before 11am on Monday, September 12.
