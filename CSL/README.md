@@ -16,7 +16,7 @@
 
 **Step 6 - If required, bring 2 pieces of ID to the CSL Office to complete Security Checks between September 14 and 21.**  This is *not* required for the EPL placement in this class.
 	
-**Step 7 - Schedule a meeting with your community partner supervisor ASAP to begin your placement. Remember to discuss: a timeline, a communication plan, and any deliverables.**  This is in part what the [Doodle poll](http://doodle.com/poll/4ynpta93g5fwds6r) and the additional instructions that accompanied it was in part for.  Remember that your obligations are to facilitate 2-3 sessions with youth at the EPL Makerspace at the start of the term *and then* to continue working with the EPL Makerspace to deliver new activity plans (or the like) to help make use of the technology they have available.  You also need to do things like write reflections over the course of the placement (see [the course syllabus](../366f16-syllabus.pdf).
+**Step 7 - Schedule a meeting with your community partner supervisor ASAP to begin your placement. Remember to discuss: a timeline, a communication plan, and any deliverables.**  This is in part what the [Doodle poll](http://doodle.com/poll/4ynpta93g5fwds6r) and the additional instructions that accompanied it was in part for.  Remember that your obligations are to facilitate 2-3 sessions with youth at the EPL Makerspace at the start of the term *and then* to continue working with the EPL Makerspace to deliver new activity plans (or the like) to help make use of the technology they have available.  You also need to do things like write reflections over the course of the placement (see [the course syllabus](../366f16-syllabus.pdf)).
 
 **Step 7 1/2 - Check in with your partner regularly.**  This is easily forgotten.  Don't forget it.
 
