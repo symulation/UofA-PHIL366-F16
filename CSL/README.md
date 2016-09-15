@@ -44,4 +44,6 @@ October 26:Certificate Info Session (Room 418, Arts & Convocation Hall, 12 - 1PM
 November 18: Boardwalk Learning & Change Award Info Session (Room 418, Arts and Convocation Hall, 12 - 1PM)
 
 December 7: Student Completion form deadline
+## CSL Contact
+While you can contact anyone at the CSL Office for assistance [Erin Kelly](https://www.ualberta.ca/community-service-learning/about-us/people) is the principal contanct for our class.
 
