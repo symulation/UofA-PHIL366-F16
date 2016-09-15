@@ -1,6 +1,6 @@
 ##CSL Information
 
-**What is Community Service-Learning (CSL)?**  For a quick overview see the summary titled ["what-is-csl-handout2016.pdf"](what-is-csl-handout2016.pdf) in this folder.
+**What is Community Service-Learning (CSL)?**  For a quick overview see the summary  in this folder: [what-is-csl-handout2016.pdf](what-is-csl-handout2016.pdf).
 
 ##Steps for a Successful CSL Experience
 
