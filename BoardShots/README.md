@@ -1,0 +1,1 @@
+## Board shots (pictures of the white board in this class) can be found in [this shared Google Photos album](https://goo.gl/photos/j1PGWbFfHuS4dAcv5).
