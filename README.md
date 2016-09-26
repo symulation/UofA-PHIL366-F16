@@ -32,11 +32,11 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **23 - _How have people thought about teaching coding historically?_**  While not a good question for discussion in its own right this question will lead us to look into the past and in doing so discover questions of both relevance to the main topic and of interest to this particular class.  We'll be drawing directly on the work of [Papert, (Pages 19-37 and 78-93 from _Mindstorms: children, computers, and powerful ideas_)](http://dl.acm.org.login.ezproxy.library.ualberta.ca/citation.cfm?id=1095592), [Kay and Goldberg](http://www.newmediareader.com/book_samples/nmr-26-kay.pdf), and returning to look at [Nelson (pay close attention to "No More Teacher's Dirty Looks")]((http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf)) again. 
 
-**26 - Discussion.**
+**26 - Discussion.** The two questions for discussion today (via two separate groups) will be: *Will learning how computers think--and thereby learning to think like computers--affect us in ways and to degrees that it should not be taught within the K-12 system (except, possibly, in highschool)?* and *How do our current computer interfaces constrain or enhance the ways that we learn or retain information and what should be done to improve them?*  The shared notepad can be found [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion2).  Feel free to come prepared with some light background reasearch via a few internet searches.  If you are looking for class content connections then consider Turing for the first and Paper and/or Nelson for the second.
 
 **28 - Coding vs Training?** One of the "Don't teach kids to code!" responses sees coding as the past and insists on looking to the future: training.  _Wired_ magazine has been pushing this idea a lot with articles from [Sehringer](http://www.wired.com/insights/2015/02/should-we-really-try-to-teach-everyone-to-code/), [Tanz ("The End of Code" was the June 2015 cover story)](http://www.wired.com/2016/05/the-end-of-code/), and [Metz](http://www.wired.com/2016/05/google-alpha-go-ai/).  We'll start poking at this idea to see what life is in it and select the subtopic to conclude this topic as a whole with.
 
-**30 - Discussion.**
+**30 - Discussion.** 
 
 ##### October
 
