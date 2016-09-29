@@ -56,7 +56,7 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **14 - Introduction, Part 2.**  With some historical background and Marxist foundations laid down we turn to the only full text we will be using this term, Christian Fuchs' _Social Media: A Critical Introduction_.  We'll be looking at the first four chapters (80 pages of reading) so make sure that you've looked at it well in advance.
 
-**17 - Economics and Production.**  We'll look at Chapters 5 & 10 today, looking at some of the core economics that seems to be driving social media sites.
+**17 - Economics and Production.**  We'll look at Chapters 5 & 10 today, looking at some of the core economics that seems to be driving social media sites.  *Note that John will not be in class today since he will be speaking with MPs in Ottawa about Canada's supercomputing infrastructure.  As a consequence there may be either a substitute instructor and/or a change in the declared programming.*
 
 **19 - Discussion.**
 
