@@ -93,7 +93,7 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **18 - Discussion 9.**
 
-**21 - TBD (Possibly, _Is Gamification Bullshit?_, drawing on [_Gamification is Bullshit_](http://bogost.com/writing/blog/gamification_is_bullshit/)**
+**21 - TBD (Possibly, _Is Gamification Bullshit?_, drawing on [_Gamification is Bullshit_](http://bogost.com/writing/blog/gamification_is_bullshit/))**
 
 **23 - Discussion 10.**
 
