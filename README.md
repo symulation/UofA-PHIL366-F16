@@ -28,23 +28,23 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **19 - _Should computer programming be taught as part of early education?_** That there is demand for computer programming to be taught in schools should be clear, but we shouldn't do things just because they are in demand.  We'll take seriously the question of whether computer programming should be taught is schools by building on the content from the previous class and adding the voices of [Guzdial] (http://cacm.acm.org/blogs/blog-cacm/173870-the-danger-of-requiring-computer-science-in-k-12-schools/fulltext), [Duckett/Abbott](http://www.zdnet.com/article/unless-kids-are-working-coding-should-not-be-taught-abbott/), and [Bajarin](http://time.com/2881453/programming-in-schools/).  We will also spend some time prepping for our first all discussion class (next class) by going over the criteria for good discussion questions and developing questions to be used next day.  Keep in mind that these questions will form the basis of writing assignments and could appear on the final exam as well.
 
-**21 - Discussion.**  Input on the question can was available at: [https://www.surveymonkey.com/r/62NGB62](https://www.surveymonkey.com/r/62NGB62).  The results of the survey can be seen at:[https://www.surveymonkey.com/results/SM-WCQRJ67X/](https://www.surveymonkey.com/results/SM-WCQRJ67X/).  The winner by just a few votes: _Should hacking have a role if programming/coding is taught and, if so, then what role?_  The runner-up: _How do we ensure that all children are (approximately) equally benefitted by learning to code/program initiatives?_  Both questions assume the answer to "Should we teach programming/coding in elementary school?" is at least a tentative "Yes, but the details need to be worked out."  Here is a [shared space for notes during the discussion](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion1).
+**21 - Discussion 1.**  Input on the question can was available at: [https://www.surveymonkey.com/r/62NGB62](https://www.surveymonkey.com/r/62NGB62).  The results of the survey can be seen at:[https://www.surveymonkey.com/results/SM-WCQRJ67X/](https://www.surveymonkey.com/results/SM-WCQRJ67X/).  The winner by just a few votes: _Should hacking have a role if programming/coding is taught and, if so, then what role?_  The runner-up: _How do we ensure that all children are (approximately) equally benefitted by learning to code/program initiatives?_  Both questions assume the answer to "Should we teach programming/coding in elementary school?" is at least a tentative "Yes, but the details need to be worked out."  Here is a [shared space for notes during the discussion](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion1).
 
 **23 - _How have people thought about teaching coding historically?_**  While not a good question for discussion in its own right this question will lead us to look into the past and in doing so discover questions of both relevance to the main topic and of interest to this particular class.  We'll be drawing directly on the work of [Papert, (Pages 19-37 and 78-93 from _Mindstorms: children, computers, and powerful ideas_)](http://dl.acm.org.login.ezproxy.library.ualberta.ca/citation.cfm?id=1095592), [Kay and Goldberg](http://www.newmediareader.com/book_samples/nmr-26-kay.pdf), and returning to look at [Nelson (pay close attention to "No More Teacher's Dirty Looks")]((http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf)) again. 
 
-**26 - Discussion.** The two questions for discussion today (via two separate groups) will be: *Will learning how computers think--and thereby learning to think like computers--affect us in ways and to degrees that it should not be taught within the K-12 system (except, possibly, in highschool)?* and *How do our current computer interfaces constrain or enhance the ways that we learn or retain information and what should be done to improve them?*  The shared notepad can be found [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion2).  Feel free to come prepared with some light background reasearch via a few internet searches.  If you are looking for class content connections then consider Turing for the first and Paper and/or Nelson for the second.
+**26 - Discussion 2.** The two questions for discussion today (via two separate groups) will be: *Will learning how computers think--and thereby learning to think like computers--affect us in ways and to degrees that it should not be taught within the K-12 system (except, possibly, in highschool)?* and *How do our current computer interfaces constrain or enhance the ways that we learn or retain information and what should be done to improve them?*  The shared notepad can be found [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion2).  Feel free to come prepared with some light background reasearch via a few internet searches.  If you are looking for class content connections then consider Turing for the first and Paper and/or Nelson for the second.
 
 **28 - Coding vs Training?** One of the "Don't teach kids to code!" responses sees coding as the past and insists on looking to the future: training.  _Wired_ magazine has been pushing this idea a lot with articles from [Sehringer](http://www.wired.com/insights/2015/02/should-we-really-try-to-teach-everyone-to-code/), [Tanz ("The End of Code" was the June 2016 cover story)](http://www.wired.com/2016/05/the-end-of-code/), and [Metz](http://www.wired.com/2016/05/google-alpha-go-ai/).  We'll start poking at this idea to see what life is in it and select the subtopic to conclude this topic as a whole with.  We also need to select the final education subtopic for October 3 & 5.
 
-**30 - Discussion.** 
+**30 - Discussion 3.** Today's discussion topic is *What are the consequences (so far and predicted) of giving increasing control to computers and how should we respond to this?* and it will be divided across three groups.  The communal note taking space can be found [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion3).  Please [remember to contribute to the choice of a final subtopic](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-ChooseEducationSubtopic) by this evening.
 
 ##### October
 
 **3 - Class selected subtopic, TBD.**  Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
 
-**5 - Discussion.** 
+**5 - Discussion 4.** 
 
-**7 - Review.**  We will clean-up any lingering questions or ideas related to teaching programming/coding in schools, including making sure that we have solid understandings of strong responses to the questions raised during the discussions.
+**7 - Review.**  We will clean-up any lingering questions or ideas related to teaching programming/coding in schools, including making sure that we have solid understandings of strong responses to the questions raised during the discussions.  Put another way, we will review the questions that have been asked so that everyone is in a strong position to produce their first piece of refined writing.
 
 **10 - Thanksgiving Day, University Holiday, No Class.**
 
@@ -58,22 +58,22 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **17 - Economics and Production.**  We'll look at Chapters 5 & 10 today, looking at some of the core economics that seems to be driving social media sites.  *Note that John will not be in class today since he will be speaking with MPs in Ottawa about Canada's supercomputing infrastructure.  As a consequence there may be either a substitute instructor and/or a change in the declared programming.*
 
-**19 - Discussion.**
+**19 - Discussion 5.**
 
 **21 - Good, Evil, and Blowing the Whistle.**  Chapters 6 & 9 will frame an investigation into the ideology (the framework of perceptions/ideas through which our experiences are filtered) of social media.
 
-**24 - Discussion.**
+**24 - Discussion 6.**
 
 **26 - Public vs Private.**  Rounding out Section II of Fuchs' text we'll look at chapters 7 & 8 while considering just what the public and the private are in terms of social media.
 
-**28 - Discussion.**
+**28 - Discussion 7.**
 
 **31 - Class selected subtopic.**
 
 
 ##### November
 
-**2 - Discussion.**
+**2 - Discussion 8.**
 
 **4 - Review.**
 
@@ -91,21 +91,21 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **16 - TBD (Possibly, _Can There Be A Feminist War Game?_, drawing on Saklofske's 2016 DHSI presentation by the same title)**
 
-**18 - Discussion.**
+**18 - Discussion 9.**
 
 **21 - TBD (Possibly, _Is Gamification Bullshit?_, drawing on [_Gamification is Bullshit_](http://bogost.com/writing/blog/gamification_is_bullshit/)**
 
-**23 - Discussion.**
+**23 - Discussion 10.**
 
 **25 - Whole-Class Game Analysis.**  Based on the content of the previous classes we'll be looking to choose a game that the entire class can participate in critiquing during the following class.  The only requirement is that the game must be generally accessible to everyone in the class.
 
-**28 - Discussion.**
+**28 - Discussion 11.**
 
 **30 - Class selected subtopic.**
 
 ##### December
 
-**2 - Discussion.**
+**2 - Discussion 12.**
 
 **5 - Review.**
 
