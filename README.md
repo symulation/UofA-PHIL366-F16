@@ -40,7 +40,13 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 ##### October
 
-**3 - Class selected subtopic, TBD.**  Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
+**3 - Class selected subtopic, 	_State of AI Research, Education, and Training_.**  There is clear interest in AI as seen from Discussion 3 and from [the suggestions made beyond the class](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-ChooseEducationSubtopic).  So, we'll review what the current state of the art is for both the fields AI is operating in _and_ how training and education is being provided.  Once this is done then we'll look to our discussion questions, the front runner of which is _"Are there specific fields that AI/Computers should not control?"_  For reading you must each find two articles or other sources, one of each to answer each of these questions:
+
+1. What fields is AI currently operating in and how?
+2. What training/education is available for people in those fields, either in producing the AI or in working with the AI?
+
+If you'd like to share your answers you may do so [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion4).
+
 
 **5 - Discussion 4.** 
 
@@ -68,7 +74,7 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **28 - Discussion 7.**
 
-**31 - Class selected subtopic.**
+**31 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
 
 
 ##### November
@@ -101,7 +107,7 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **28 - Discussion 11.**
 
-**30 - Class selected subtopic.**
+**30 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
 
 ##### December
 
