@@ -47,8 +47,13 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 If you'd like to share your answers you may do so [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion4).
 
+**5 - Discussion 4.** Two questions on the table today:
 
-**5 - Discussion 4.** 
+1. Under what conditions, if any, should we allow AIs to provide education as the primary instructor?
+2. I killing via autonomous drone different from other methods and, if so, how?
+
+Etherpad for notes, complete with content shared from last class is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion4).
+
 
 **7 - Review.**  We will clean-up any lingering questions or ideas related to teaching programming/coding in schools, including making sure that we have solid understandings of strong responses to the questions raised during the discussions.  Put another way, we will review the questions that have been asked so that everyone is in a strong position to produce their first piece of refined writing.
 
@@ -120,3 +125,5 @@ If you'd like to share your answers you may do so [HERE](https://public.etherpad
 ##### December
 
 **7 - Last Day.**  We'll summarize the term, go over the format of the final exam, and ask a whole lot of questions for further thought.
+
+**15 - Final Exam.**  2pm.  Unclear if we will use the same classroom or not.
