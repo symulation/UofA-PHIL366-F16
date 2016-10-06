@@ -50,7 +50,7 @@ If you'd like to share your answers you may do so [HERE](https://public.etherpad
 **5 - Discussion 4.** Two questions on the table today:
 
 1. Under what conditions, if any, should we allow AIs to provide education as the primary instructor?
-2. I killing via autonomous drone different from other methods and, if so, how?
+2. Is killing via autonomous drone different from other methods and, if so, how?
 
 Etherpad for notes, complete with content shared from last class is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion4).
 
