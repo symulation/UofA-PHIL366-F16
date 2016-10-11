@@ -67,26 +67,25 @@ Etherpad for notes, complete with content shared from last class is [HERE](https
 
 **14 - Introduction, Part 2.**  With some historical background and Marxist foundations laid down we turn to the only full text we will be using this term, Christian Fuchs' _Social Media: A Critical Introduction_.  We'll be looking at the first four chapters (80 pages of reading) so make sure that you've looked at it well in advance.
 
-**17 - Economics and Production.**  We'll look at Chapters 5 & 10 today, looking at some of the core economics that seems to be driving social media sites.  *Note that John will not be in class today since he will be speaking with MPs in Ottawa about Canada's supercomputing infrastructure.  As a consequence there may be either a substitute instructor and/or a change in the declared programming.*
+**17 - Special Guest.**  Marnie Ferguson will be leading the class today.  She is a teacher and counsellor with Elk Island Public Schools and will be presenting on social media trends that she sees in here work within the public school system.  *Note that John will not be in class today since he will be speaking with MPs in Ottawa about Canada's supercomputing infrastructure.*
 
-**19 - Discussion 5.**
+**19 - Economics and Production.**  We'll look at Chapters 5 & 10 today, looking at some of the core economics that seems to be driving social media sites.  
 
-**21 - Good, Evil, and Blowing the Whistle.**  Chapters 6 & 9 will frame an investigation into the ideology (the framework of perceptions/ideas through which our experiences are filtered) of social media.
+**21 - Discussion 5.**
 
-**24 - Discussion 6.**
+**24 - Good, Evil, and Blowing the Whistle.**  Chapters 6 & 9 will frame an investigation into the ideology (the framework of perceptions/ideas through which our experiences are filtered) of social media.
 
-**26 - Public vs Private.**  Rounding out Section II of Fuchs' text we'll look at chapters 7 & 8 while considering just what the public and the private are in terms of social media.
+**26 - Discussion 6.**
 
-**28 - Discussion 7.**
+**28 - Public vs Private.**  Rounding out Section II of Fuchs' text we'll look at chapters 7 & 8 while considering just what the public and the private are in terms of social media.
 
-**31 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
-
+**31 - Discussion 7.**
 
 ##### November
 
-**2 - Discussion 8.**
+**2 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
 
-**4 - Review.**
+**4 - Discussion 8.**
 
 **7 - Fall Term Reading Week, No Class.**
 
@@ -94,36 +93,36 @@ Etherpad for notes, complete with content shared from last class is [HERE](https
 
 **11 - Remebrance Day / Fall Term Reading Week, No Class.**
 
+**14 - Review.**
+
 #### Topic #4 - Critically Reading Video Games
 
 ##### November
 
-**14 - Introduction.**  Critical reading of texts and related works is fairly well established and there are good primers on how to do this available (cf. [Ullyot](http://ullyot.ucalgaryblogs.ca/teaching/close-reading/)).  Critically reading video games is newer---and some might argue more multivariate---and so there is writing on it but the field is still actively developing.  Drawing on two influential gaming studies authors, [Ian Bogost (chapter 1)](http://eds.b.ebscohost.com.login.ezproxy.library.ualberta.ca/eds/detail/detail?sid=95b41b99-5c5c-4de3-a8f5-4c887c9915f6%40sessionmgr105&vid=0&hid=108&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d)) and [Mary Flanagan (chapter 1)](https://www.library.ualberta.ca/catalog/5771496), we'll begin down the path of critically evaluating video games.  Note that this is the second bit of heavy reading since the piece by Bogost on "Procedural Rhetoric" is 60 pages).
+**16 - Introduction.**  Critical reading of texts and related works is fairly well established and there are good primers on how to do this available (cf. [Ullyot](http://ullyot.ucalgaryblogs.ca/teaching/close-reading/)).  Critically reading video games is newer---and some might argue more multivariate---and so there is writing on it but the field is still actively developing.  Drawing on two influential gaming studies authors, [Ian Bogost (chapter 1)](http://eds.b.ebscohost.com.login.ezproxy.library.ualberta.ca/eds/detail/detail?sid=95b41b99-5c5c-4de3-a8f5-4c887c9915f6%40sessionmgr105&vid=0&hid=108&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d)) and [Mary Flanagan (chapter 1)](https://www.library.ualberta.ca/catalog/5771496), we'll begin down the path of critically evaluating video games.  Note that this is the second bit of heavy reading since the piece by Bogost on "Procedural Rhetoric" is 60 pages).
 
-**16 - TBD (Possibly, _Can There Be A Feminist War Game?_, drawing on Saklofske's 2016 DHSI presentation by the same title)**
+**18 - TBD (Possibly, _Can There Be A Feminist War Game?_, drawing on Saklofske's 2016 DHSI presentation by the same title)**
 
-**18 - Discussion 9.**
+**21 - Discussion 9.**
 
-**21 - TBD (Possibly, _Is Gamification Bullshit?_, drawing on [_Gamification is Bullshit_](http://bogost.com/writing/blog/gamification_is_bullshit/))**
+**23 - TBD (Possibly, _Is Gamification Bullshit?_, drawing on [_Gamification is Bullshit_](http://bogost.com/writing/blog/gamification_is_bullshit/))**
 
-**23 - Discussion 10.**
+**25 - Discussion 10.**
 
-**25 - Whole-Class Game Analysis.**  Based on the content of the previous classes we'll be looking to choose a game that the entire class can participate in critiquing during the following class.  The only requirement is that the game must be generally accessible to everyone in the class.
+**28 - Whole-Class Game Analysis.**  Based on the content of the previous classes we'll be looking to choose a game that the entire class can participate in critiquing during the following class.  The only requirement is that the game must be generally accessible to everyone in the class.
 
-**28 - Discussion 11.**
-
-**30 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
+**30 - Discussion 11.**
 
 ##### December
 
-**2 - Discussion 12.**
+**2 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
 
-**5 - Review.**
+**5 - Discussion 12.**
 
-#### Topic #5 - Review
+**7 - Review.**
+
+#### Final Exam
 
 ##### December
-
-**7 - Last Day.**  We'll summarize the term, go over the format of the final exam, and ask a whole lot of questions for further thought.
 
 **15 - Final Exam.**  2pm.  Unclear if we will use the same classroom or not.
