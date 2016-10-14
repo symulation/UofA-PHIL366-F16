@@ -69,7 +69,7 @@ Etherpad for notes, complete with content shared from last class is [HERE](https
 
 **17 - Special Guest.**  Marnie Ferguson will be leading the class today.  She is a teacher and counsellor with Elk Island Public Schools and will be presenting on social media trends that she sees in here work within the public school system.  *Note that John will not be in class today since he will be speaking with MPs in Ottawa about Canada's supercomputing infrastructure.*
 
-**19 - Economics and Production.**  We'll look at Chapters 5 & 10 today, looking at some of the core economics that seems to be driving social media sites.  
+**19 - Economics and Production.**  We'll look at Chapters 5 & 10 today, looking at some of the core economics that seems to be driving social media sites.  If necessary we'll spend time at the start of class finishing the introduction. 
 
 **21 - Discussion 5.**
 
