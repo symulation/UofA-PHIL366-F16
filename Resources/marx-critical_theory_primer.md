@@ -29,7 +29,7 @@ It is this set-up/state of affairs that Marx referred to as "Capitalism". **"Cap
 
 Marx believed that as capitalism took hold around the globe that the proletariat population of the world would rise up and overthrow the bourgeoisie, taking ownership and control of the means of production and ending, once and for all, the class conflict that had existed through time previously (capitalism was just the most recent flavour).
 
-While there are governments that are labelled as Communists/Marxist none of them really are since they amount to the continued existence of a heavy divide between those who have power and everybody else.
+While there are governments that are labelled as Communist/Marxist none of them really are since they amount to the continued existence of a heavy divide between those who have power and everybody else.
 
 ###Exploitation and Oppression
 The central wrongs that Marx sees in capitalism are the exploitation and oppression of the proletariat by the bourgeoisie.  It is important to know what these terms mean, as follows:
