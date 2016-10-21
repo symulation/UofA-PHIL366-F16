@@ -71,7 +71,13 @@ Etherpad for notes, complete with content shared from last class is [HERE](https
 
 **19 - Economics and Production.**  We'll look at Chapters 5 & 10 today, looking at some of the core economics that seems to be driving social media sites.  If necessary we'll spend time at the start of class finishing the introduction. 
 
-**21 - Discussion 5.** [Etherpad](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion5)
+**21 - Discussion 5.** A three part question today:
+
+1. Argue for or against Fuch's position that most social media platforms are exploiting their users.
+2. In doing so address whether or not it is ok to exploit someone in general and particularly in the way that Fuchs' claims is being done on social media.
+3. Given your answer, what should you do and what should be done in general, if anything?
+
+Here is an [Etherpad](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion5) to collect your thoughts on this discussion (apologies for posting this late, it seems that GitHub has been down for much of the day).
 
 **24 - Good, Evil, and Blowing the Whistle.**  Chapters 6 & 9 will frame an investigation into the ideology (the framework of perceptions/ideas through which our experiences are filtered) of social media.
 
