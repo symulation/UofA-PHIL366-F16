@@ -2,7 +2,7 @@
 
 As a supplement to the in-class presentations to start our second topic I offer the following short primer to help ensure that we are keeping our terms straight as we move forward with critical theory and social media.
 
-##Marxism
+##Short Marxism Overview
 Karl Marx lived from 1818 to 1883 and so he saw first-hand the effects of the industrial revolution on the people around him.  This _must_ be remembered when talking about Marx and his ideas because his thoughts---what we now think of as _Marxism_---are meant to apply directly to this situation.  Marx did not anticipate some important changes that have happened since the 1800s and some of his predictions have not come to pass (most notably there has not been a global revolution) but this does not mean that his ideas are to be disregarded.  On the contrary some of his ideas continue to promote challenges and change related to freedom and justice.
 
 ###Industrial Revolution
@@ -65,7 +65,7 @@ The separation from these four things is _alienation_.
 According to Marx the species being for humans is doing creative, challenging, collaborative work.  _If_ Marx is right, capitalism doesn’t just deprive us of something that it would be nice to have, it deprives us of one of the most centrally important things we can have given the way we are.
 
 ###Ideology
-Marx thought that beliefs and values we "ideological" when they served to underpin the current economic system.  So, notions about fairness, how much property it is ok to have, the place of people of type X, effort vs return, etc. are all ideological.  Such beliefs are not necessary beyond their support for the current status quo and, thus, the bourgeoisie.
+Marx thought that beliefs and values we "ideological" when they served to underpin the current economic system.  So, notions about fairness, private property, the place of people of type X, effort vs return, etc. are all ideological.  Such beliefs are not necessary beyond their support for the current status quo and, thus, the bourgeoisie.  An important part of understanding Marxism is recognizing what ideas we hold that are ideological and being open to the possibility that they could be otherwise and are not necessarily the best way to think about the organization of the world.
 
 ###Historical Materialism
 The philosopher Hegel held that it was ideas that determined economic structures.  Marx is sometimes said to have "turned Hegel on his head" by asserting that it is the opposite that is true: economic structures determine ideas.  This is a big picture idea that shares a lot in common with McLuhan's claim that "The medium is the message".
@@ -75,3 +75,8 @@ The philosopher Hegel held that it was ideas that determined economic structures
 Under historical materialism it is the _base_, the production technology and ownership structure that it enables, that determines the _superstructure_, the government, laws, and ethical and political views (all part of the ideology).  Marx believed that the revolution that he predicted would result in the first state of affairs that did not lead one group of people to oppress and exploit another.  Why?  Capitalism would result in such efficient technology and such disparity of wealth that not only would the workers overthrow the capitalists (they would have no other choice) but after they did so the capital in the world would be enough to support communist society and whatever it looked like (Marx didn't say much about this).
 
 With this in mind it must be noted that capitalism is _necessary_ for communism to take place and be successful.  Any attempt at revolution too soon and the capacity and efficiencies of the means of production would not be there to support communist society after the revolution.
+
+## Longer Marxism Overview
+You can easily find overviews of Marxism around on the web and in books from the library.  A particularly useful one is [Bertel Ollman's _Marx's Vision of Communism_](https://www.nyu.edu/projects/ollman/docs/vision_of_communism.php) because is succinct and it does not overly extend its summray beyond what Marx actually said/wrote.
+
+This piece also makes clear that the transition to a communist society, according to Marx, would take many, many years.  This is important because the attitudes that are described in the final stage can easily be described as laughable from earlier stages.  That this is so is a place to check for the ideology of the current system to be affecting your notions of how the world must be.
