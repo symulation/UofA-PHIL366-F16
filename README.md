@@ -71,7 +71,7 @@ Etherpad for notes, complete with content shared from last class is [HERE](https
 
 **19 - Economics and Production.**  We'll look at Chapters 5 & 10 today, looking at some of the core economics that seems to be driving social media sites.  If necessary we'll spend time at the start of class finishing the introduction. 
 
-**21 - Discussion 5.**
+**21 - Discussion 5.** [Etherpad](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion5)
 
 **24 - Good, Evil, and Blowing the Whistle.**  Chapters 6 & 9 will frame an investigation into the ideology (the framework of perceptions/ideas through which our experiences are filtered) of social media.
 
