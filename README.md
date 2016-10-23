@@ -131,4 +131,4 @@ Here is an [Etherpad](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Dis
 
 ##### December
 
-**15 - Final Exam.**  2pm.  Unclear if we will use the same classroom or not.
+**15 - Final Exam.**  2pm in BUS 2-5.
