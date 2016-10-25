@@ -79,7 +79,7 @@ Etherpad for notes, complete with content shared from last class is [HERE](https
 
 Here is an [Etherpad](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion5) to collect your thoughts on this discussion (apologies for posting this late, it seems that GitHub has been down for much of the day).
 
-**24 - Good, Evil, and Blowing the Whistle.**  Chapters 6 & 9 will frame an investigation into the ideology (the framework of perceptions/ideas through which our experiences are filtered) of social media.
+**24 - Good, Evil, and Blowing the Whistle.**  Chapters 6 & 9 will frame an investigation into the ideology (the framework of perceptions/ideas through which our experiences are filtered) of social media.  Contribute to the discussion question by adding your thoughts to the [Discussion 6 Etherpad](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion6).
 
 **26 - Discussion 6.**
 
