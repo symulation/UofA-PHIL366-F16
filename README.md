@@ -81,7 +81,13 @@ Here is an [Etherpad](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Dis
 
 **24 - Good, Evil, and Blowing the Whistle.**  Chapters 6 & 9 will frame an investigation into the ideology (the framework of perceptions/ideas through which our experiences are filtered) of social media.  Contribute to the discussion question by adding your thoughts to the [Discussion 6 Etherpad](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion6).
 
-**26 - Discussion 6.**
+**26 - Discussion 6.** Two questions today:
+
+1. _Google Inspired Question:_  When, if ever, is it ok to use an advertisement blocker on the web?  (Make sure to assess both that advertisements are a revenue stream for websites and that such a practice is both exploitation in and of itself and very likely targeted based on previous surveillance/exploitation.)
+2. _Wikileaks Inspired Question:_  When, if ever, is it ok for Wikileaks (or any similar service) to do what it does?  (Make sure to take into account that some of the data has been acquired through offensive hacking, and most (if not all) of the data is private such that those that held it previously would not want it released.)
+
+The etherpad for both is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion6).
+
 
 **28 - Public vs Private.**  Rounding out Section II of Fuchs' text we'll look at chapters 7 & 8 while considering just what the public and the private are in terms of social media.
 
