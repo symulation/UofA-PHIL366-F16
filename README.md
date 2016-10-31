@@ -91,11 +91,17 @@ The etherpad for both is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil3
 
 **28 - Public vs Private.**  Rounding out Section II of Fuchs' text we'll look at chapters 7 & 8 while considering just what the public and the private are in terms of social media.
 
-**31 - Discussion 7.**
+**31 - Discussion 7.**  Interest from the class seems to have landed more directly on the constraints of the messaging features of social media tools like Facebook and Twitter and on their role in activism so this is where our questions will be drawn from.  The questions available for today are:
+
+1. Use a critical theory approach and assess the ability of social media platforms like Twitter and Facebook to bring about political change.  Make sure that you are taking into account Fuchs position on this but also to make sure that this is extended/challenged.
+2. Use a critical theory approach to assess the communication styles/modes/methods that are promoted by social media platforms like Twitter (short/terse messaging) and Facebook ("likes" and now emoticon responses).  Yes, Fuchs needs to be drawn on to make this assessment but keep in mind earlier authors like Baudrillard and Enzensberger.
+
+The etherpad for both is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion7).
+
 
 ##### November
 
-**2 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
+**2 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.  You can contribute to the selection of the subtopic [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion8) until 5pm on October 31.
 
 **4 - Discussion 8.**
 
