@@ -101,7 +101,7 @@ The etherpad for both is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil3
 
 ##### November
 
-**2 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.  You can contribute to the selection of the subtopic [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion8) until 5pm on October 31.
+**2 - Class selected subtopic: _Internet as a Right and Internet Addiction Disorder_.** Based on the suggestions here [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion8) today's subtopic will amount to "The rapid and deep integration of the Internet and Internet services in contemporary culture".  Readings will include [this article](https://www.wired.com/2011/06/internet-a-human-right/) and [this article](http://www.businessinsider.com/un-says-internet-access-is-a-human-right-2016-7) about the Internet as a _basic human right_ ([The UN said it was in June this year](https://www.article19.org/data/files/Internet_Statement_Adopted.pdf)) and [this summary article on Internet Addiction Disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3480687/).
 
 **4 - Discussion 8.**
 
