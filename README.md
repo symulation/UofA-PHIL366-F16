@@ -103,7 +103,11 @@ The etherpad for both is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil3
 
 **2 - Class selected subtopic: _Internet as a Right and Internet Addiction Disorder_.** Based on the suggestions here [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion8) today's subtopic will amount to "The rapid and deep integration of the Internet and Internet services in contemporary culture".  Readings will include [this article](https://www.theguardian.com/law/2012/jan/11/is-internet-access-a-human-right) and [this article](http://www.businessinsider.com/un-says-internet-access-is-a-human-right-2016-7) about the Internet as a _basic human right_ ([The UN said it was in June this year](https://www.article19.org/data/files/Internet_Statement_Adopted.pdf)) and [this summary article on Internet Addiction Disorder](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3480687/).
 
-**4 - Discussion 8.**
+**4 - Discussion 8.**  Should Internet Access be a human right?  (You can ask this with an "is" instead of the "should" but if you do so then you can't take it in a legal sense that would allow you to just say something like "The UN says so so it is".  There's a lot of legalese to pick through to make such a case and this would likely take you too far off track.)  The answer must include consideration of degrees of access (hint: if you think that it should not be a human right then you are arguing against event the most minimally reasonable degree of access; if you think it should then you need to be clear how far this goes as in what is the minimum level of access, such as "people can walk to the library" or "15Mbps to homes" or "Anyone could purchase it" or, or, or), and who is responsible for seeing that such a right is maintained.
+
+Is there something special about the Internet—and important technologies built on top of it—that promotes dysfunction or otherwise modifies individuals/cultures to degrees and in ways that other media are not capable of?
+
+Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion8).
 
 **7 - Fall Term Reading Week, No Class.**
 
