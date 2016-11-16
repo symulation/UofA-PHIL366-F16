@@ -121,17 +121,17 @@ Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/
 
 ##### November
 
-**16 - Introduction.**  Critical reading of texts and related works is fairly well established and there are good primers on how to do this available (cf. [Ullyot](http://ullyot.ucalgaryblogs.ca/teaching/close-reading/)).  Critically reading video games is newer---and some might argue more multivariate---and so there is writing on it but the field is still actively developing.  Drawing on two influential gaming studies authors, [Ian Bogost (chapter 1)](https://www.library.ualberta.ca/catalog/7175807) and [Mary Flanagan (chapter 1)](https://www.library.ualberta.ca/catalog/5771496), we'll begin down the path of critically evaluating video games.  Note that this is the second bit of heavy reading since the piece by Bogost on "Procedural Rhetoric" is 60 pages).
+**16 - Introduction.**  Critical reading of texts and related works is fairly well established and there are good primers on how to do this available (cf. [Ullyot](http://ullyot.ucalgaryblogs.ca/teaching/close-reading/)).  Critically reading video games is newer---and some might argue more multivariate---and so there is writing on it but the field is still actively developing.  Drawing on two influential gaming studies authors, [Ian Bogost (chapter 1)](https://www.library.ualberta.ca/catalog/7175807) and [Mary Flanagan (chapter 1)](https://www.library.ualberta.ca/catalog/5771496), we'll begin down the path of critically evaluating video games.  Note that this is the second bit of heavy reading since the piece by Bogost introducing "Procedural Rhetoric" is 60 pages).
 
-**18 - TBD (Possibly, _Can There Be A Feminist War Game?_, drawing on Saklofske's 2016 DHSI presentation by the same title)**
+**18 - Can There Be A Feminist War Game?**  For this investigation we'll draw on Jon Saklofske's 2016 [DHSI](http://dhsi.org/)/[ELO](http://eliterature.org/) presentation by the same title (emailed separately) and on a piece by Iris Marion Young that outlines Five Faces of Oppression ([Full copy](https://wmbranchout.files.wordpress.com/2011/12/five-faces-of-oppression-iris-young.pdf) [Summary copy (make sure to read and understand the important section on social groups in the full copy)](https://mrdevin.files.wordpress.com/2009/06/five-faces-of-oppression.pdf)).  We'll use Saklofske's piece as the principal focus and Young's piece as both a paradigmatic example of solidly good feminist scholarship _and_ as a resource to draw further concepts from.
 
 **21 - Discussion 9.**
 
-**23 - TBD (Possibly, _Is Gamification Bullshit?_, drawing on [_Gamification is Bullshit_](http://bogost.com/writing/blog/gamification_is_bullshit/))**
+**23 - Is Gamification Bullshit?** Ian Bogost argues in a [blog post](http://bogost.com/writing/blog/gamification_is_bullshit/)) that gamification is bullshit (a la Frankfurt's [_On Bullshit_](http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)).  Bogost expands the short blog post into a book chapter [(Ch. 2 of _The Gameful World_)](https://www.library.ualberta.ca/catalog/6918458) which we will use alongside this more optomistic paper [_Gamification in Education: What, How, Why Bother?_](https://github.com/papers-we-love/papers-we-love/blob/master/gamification/gamification-in-education-what-how-why-bother.pdf) as our grounding for considering the trend and its impacts.  <!-- [Coursera course on gamification from the University of Pennsylvania](Gamification - University of Pennsylvania | Coursera) -->
 
 **25 - Discussion 10.**
 
-**28 - Whole-Class Game Analysis.**  Based on the content of the previous classes we'll be looking to choose a game that the entire class can participate in critiquing during the following class.  The only requirement is that the game must be generally accessible to everyone in the class.
+**28 - Whole-Class Game Analysis.**  Based on the content of the previous classes we'll be looking to choose a game that the entire class can participate in critiquing during the following class.  The only requirement is that the game must be generally accessible to everyone in the class. (This is currently under reconsideration for pragmatic reasons, suggestions for a possible game _or_ a replacement topic are welcome.)
 
 **30 - Discussion 11.**
 
