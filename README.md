@@ -12,7 +12,7 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **2 - First Class.**  The first class will feature only a quick review of the mechanics of the class since the details are all in the syllabus and then move into a review of foundational concepts and authors related to the rise of computers both in and of themselves and as machines that both shape and are shaped by culture.  This first class will focus less on authors and more on general concepts, questions, and ideas of relevance, some of which will be prompted by the [ITU database](http://www.itu.int/net4/itu-d/icteye/) and the [ITU's Measuring the Information Society Report](http://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2015.aspx).
 
-**5 - Labour Day, University Holiday, No Class.**
+**5 - Labour Day, University Holiday, No Class.** 
 
 **7 - Community Service-Learning Introduction.**  This class has an optional CSL component.  A representative from this program will be in class to make a short presentation and answer questions.  We will continue the introduction begun on the first day of class, shifting focus to look at particular authors at a glance.
 
@@ -32,7 +32,7 @@ Welcome to _Computers & Culture_.  We'll be using this GitHub project to collect
 
 **23 - _How have people thought about teaching coding historically?_**  While not a good question for discussion in its own right this question will lead us to look into the past and in doing so discover questions of both relevance to the main topic and of interest to this particular class.  We'll be drawing directly on the work of [Papert, (Pages 19-37 and 78-93 from _Mindstorms: children, computers, and powerful ideas_)](http://dl.acm.org.login.ezproxy.library.ualberta.ca/citation.cfm?id=1095592), [Kay and Goldberg](http://www.newmediareader.com/book_samples/nmr-26-kay.pdf), and returning to look at [Nelson (pay close attention to "No More Teacher's Dirty Looks")]((http://www.newmediareader.com/book_samples/nmr-21-nelson.pdf)) again. 
 
-**26 - Discussion 2.** The two questions for discussion today (via two separate groups) will be: *Will learning how computers think--and thereby learning to think like computers--affect us in ways and to degrees that it should not be taught within the K-12 system (except, possibly, in highschool)?* and *How do our current computer interfaces constrain or enhance the ways that we learn or retain information and what should be done to improve them?*  The shared notepad can be found [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion2).  Feel free to come prepared with some light background reasearch via a few internet searches.  If you are looking for class content connections then consider Turing for the first and Paper and/or Nelson for the second.
+**26 - Discussion 2.** The two questions for discussion today (via two separate groups) will be: *Will learning how computers think--and thereby learning to think like computers--affect us in ways and to degrees that it should not be taught within the K-12 system (except, possibly, in high school)?* and *How do our current computer interfaces constrain or enhance the ways that we learn or retain information and what should be done to improve them?*  The shared notepad can be found [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion2).  Feel free to come prepared with some light background research via a few internet searches.  If you are looking for class content connections then consider Turing for the first and Paper and/or Nelson for the second.
 
 **28 - Coding vs Training?** One of the "Don't teach kids to code!" responses sees coding as the past and insists on looking to the future: training.  _Wired_ magazine has been pushing this idea a lot with articles from [Sehringer](http://www.wired.com/insights/2015/02/should-we-really-try-to-teach-everyone-to-code/), [Tanz ("The End of Code" was the June 2016 cover story)](http://www.wired.com/2016/05/the-end-of-code/), and [Metz](http://www.wired.com/2016/05/google-alpha-go-ai/).  We'll start poking at this idea to see what life is in it and select the subtopic to conclude this topic as a whole with.  We also need to select the final education subtopic for October 3 & 5.
 
@@ -114,7 +114,7 @@ Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/
 
 **9 - Fall Term Reading Week, No Class.**
 
-**11 - Remebrance Day / Fall Term Reading Week, No Class.**
+**11 - Remembrance Day / Fall Term Reading Week, No Class.**
 
 **14 - Review.**
 
@@ -128,7 +128,7 @@ Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/
 
 **21 - Discussion 9.**
 
-**23 - Is Gamification Bullshit?** Ian Bogost argues in a [blog post](http://bogost.com/writing/blog/gamification_is_bullshit/)) that gamification is bullshit (a la Frankfurt's [_On Bullshit_](http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)).  Bogost expands the short blog post into a book chapter [(Ch. 2 of _The Gameful World_)](https://www.library.ualberta.ca/catalog/6918458) which we will use alongside this more optomistic paper [_Gamification in Education: What, How, Why Bother?_](https://github.com/papers-we-love/papers-we-love/blob/master/gamification/gamification-in-education-what-how-why-bother.pdf) as our grounding for considering the trend and its impacts.  <!-- [Coursera course on gamification from the University of Pennsylvania](Gamification - University of Pennsylvania | Coursera) -->
+**23 - Is Gamification Bullshit?** Ian Bogost argues in a [blog post](http://bogost.com/writing/blog/gamification_is_bullshit/) that gamification is bullshit (_a la_ Frankfurt's [_On Bullshit_](http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)).  Bogost expands the shorter blog post into a book chapter [(Ch. 2 of _The Gameful World_)](https://www.library.ualberta.ca/catalog/6918458) which we will use alongside this more optimistic paper [_Gamification in Education: What, How, Why Bother?_](https://github.com/papers-we-love/papers-we-love/blob/master/gamification/gamification-in-education-what-how-why-bother.pdf) as our grounding for considering the trend and its impacts.  <!-- [Coursera course on gamification from the University of Pennsylvania](Gamification - University of Pennsylvania | Coursera) -->
 
 **25 - Discussion 10.**
 
