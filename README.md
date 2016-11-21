@@ -128,7 +128,17 @@ Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/
 
 Aside: If you would like another explanation of social groups that compliments Young's then consider listening to [this interview from the November 18 edition of CBC's _The Current_](http://www.cbc.ca/radio/thecurrent/trump-brexit-based-on-misconceptions-about-race-and-nationality-says-renowned-philosopher-1.3857318?autoplay=true).
 
-**21 - Discussion 9.**
+**21 - Discussion 9.**  Today's discussion follows straight from the theme of the previous class: _can there be a feminist war game?_  If you think there can then you need to make sure that your anser does three things:
+
+1. Proves this to be the case by outlining such a game.
+2. Tying together that outline to the goals of modern, third-wave, feminism as outlined in class.
+3. Defending your example against claims that it might _look_ like a feminist war game but in reality it is something else (e.g. a regular war game or not a war game at all), meaning that you are going to need to be very clear on what makes a war game in the future and how yours is different.
+
+If you think that there cannot be such a war game then there is really only one path open to you:  Argue from the definitions and principles involved that a feminist war game would be a contradiction and is thus impossible.
+
+In either case you should also consider the practicalities of developing and deploying such a game (e.g. could it be popular? would it necessarily be expensive?) but do not let these considerations distract you from the core question, which is whether or not a feminist war game is possible.
+
+Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion9).
 
 **23 - Is Gamification Bullshit?** Ian Bogost argues in a [blog post](http://bogost.com/writing/blog/gamification_is_bullshit/) that gamification is bullshit (_a la_ Frankfurt's [_On Bullshit_](http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)).  Bogost expands the shorter blog post into a book chapter [(Ch. 2 of _The Gameful World_)](https://www.library.ualberta.ca/catalog/6918458) which we will use alongside this more optimistic paper [_Gamification in Education: What, How, Why Bother?_](https://github.com/papers-we-love/papers-we-love/blob/master/gamification/gamification-in-education-what-how-why-bother.pdf) as our grounding for considering the trend and its impacts.  <!-- [Coursera course on gamification from the University of Pennsylvania](Gamification - University of Pennsylvania | Coursera) -->
 
