@@ -142,7 +142,9 @@ Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/
 
 **23 - Is Gamification Bullshit?** Ian Bogost argues in a [blog post](http://bogost.com/writing/blog/gamification_is_bullshit/) that gamification is bullshit (_a la_ Frankfurt's [_On Bullshit_](http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)).  Bogost expands the shorter blog post into a book chapter [(Ch. 2 of _The Gameful World_)](https://www.library.ualberta.ca/catalog/6918458) which we will use alongside this more optimistic paper [_Gamification in Education: What, How, Why Bother?_](https://github.com/papers-we-love/papers-we-love/blob/master/gamification/gamification-in-education-what-how-why-bother.pdf) as our grounding for considering the trend and its impacts.  [For a look at the techniques used to keep people playing see this clip from CBC's _Spark_.](http://www.cbc.ca/radio/spark/283-consciousness-intelligent-software-kids-and-games-1.3046449/why-your-kid-can-t-turn-off-a-game-when-you-ask-1.3047276)  <!-- [Coursera course on gamification from the University of Pennsylvania](Gamification - University of Pennsylvania | Coursera) -->
 
-**25 - Discussion 10.**
+**25 - Discussion 10.** _When, if ever, is it ok to use known to be addictive techniques when designing a game?_  In your answer take into account what Bogost has to say about exploitationware and gamification. 
+
+Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion10).
 
 **28 - Cheating.** We'll look at cheating in general and as it applies specifically to video games, drawing on work from [Suits](https://www.library.ualberta.ca/catalog/7346442), [Huizinga](https://www.library.ualberta.ca/catalog/2316239), and [Consalvo](https://www.library.ualberta.ca/catalog/7175806).  We'll also take a short, cursory look at what is known as the [Machiavellian intelligence hypothesis](https://www.library.ualberta.ca/results?q=Machiavellian+intelligence+hypothesis).  If you want a list of contemporary cheating practices in video games then look no farther than [Wikipedia](https://en.wikipedia.org/wiki/Cheating_in_video_games).
 
