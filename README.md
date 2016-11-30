@@ -55,7 +55,7 @@ If you'd like to share your answers you may do so [HERE](https://public.etherpad
 Etherpad for notes, complete with content shared from last class is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion4).
 
 
-**7 - Review.**  We will clean-up any lingering questions or ideas related to teaching programming/coding in schools, including making sure that we have solid understandings of strong responses to the questions raised during the discussions.  Put another way, we will review the questions that have been asked so that everyone is in a strong position to produce their first piece of refined writing.
+**7 - Topic Review.**  We will clean-up any lingering questions or ideas related to teaching programming/coding in schools, including making sure that we have solid understandings of strong responses to the questions raised during the discussions.  Put another way, we will review the questions that have been asked so that everyone is in a strong position to produce their first piece of refined writing.
 
 **10 - Thanksgiving Day, University Holiday, No Class.**
 
@@ -116,7 +116,7 @@ Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/
 
 **11 - Remembrance Day / Fall Term Reading Week, No Class.**
 
-**14 - Review.**
+**14 - Topic Review.**
 
 #### Topic #4 - Critically Reading Video Games
 
@@ -128,7 +128,7 @@ Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/
 
 Aside: If you would like another explanation of social groups that compliments Young's then consider listening to [this interview from the November 18 edition of CBC's _The Current_](http://www.cbc.ca/radio/thecurrent/trump-brexit-based-on-misconceptions-about-race-and-nationality-says-renowned-philosopher-1.3857318?autoplay=true).
 
-**21 - Discussion 9.**  Today's discussion follows straight from the theme of the previous class: _can there be a feminist war game?_  If you think there can then you need to make sure that your anser does three things:
+**21 - Discussion 9.**  Today's discussion follows straight from the theme of the previous class: _can there be a feminist war game?_  If you think there can then you need to make sure that your answer does three things:
 
 1. Proves this to be the case by outlining such a game.
 2. Tying together that outline to the goals of modern, third-wave, feminism as outlined in class.
@@ -140,21 +140,24 @@ In either case you should also consider the practicalities of developing and dep
 
 Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion9).
 
-**23 - Is Gamification Bullshit?** Ian Bogost argues in a [blog post](http://bogost.com/writing/blog/gamification_is_bullshit/) that gamification is bullshit (_a la_ Frankfurt's [_On Bullshit_](http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)).  Bogost expands the shorter blog post into a book chapter [(Ch. 2 of _The Gameful World_)](https://www.library.ualberta.ca/catalog/6918458) which we will use alongside this more optimistic paper [_Gamification in Education: What, How, Why Bother?_](https://github.com/papers-we-love/papers-we-love/blob/master/gamification/gamification-in-education-what-how-why-bother.pdf) as our grounding for considering the trend and its impacts.  <!-- [Coursera course on gamification from the University of Pennsylvania](Gamification - University of Pennsylvania | Coursera) -->
+**23 - Is Gamification Bullshit?** Ian Bogost argues in a [blog post](http://bogost.com/writing/blog/gamification_is_bullshit/) that gamification is bullshit (_a la_ Frankfurt's [_On Bullshit_](http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf)).  Bogost expands the shorter blog post into a book chapter [(Ch. 2 of _The Gameful World_)](https://www.library.ualberta.ca/catalog/6918458) which we will use alongside this more optimistic paper [_Gamification in Education: What, How, Why Bother?_](https://github.com/papers-we-love/papers-we-love/blob/master/gamification/gamification-in-education-what-how-why-bother.pdf) as our grounding for considering the trend and its impacts.  [For a look at the techniques used to keep people playing see this clip from CBC's _Spark_.](http://www.cbc.ca/radio/spark/283-consciousness-intelligent-software-kids-and-games-1.3046449/why-your-kid-can-t-turn-off-a-game-when-you-ask-1.3047276)  <!-- [Coursera course on gamification from the University of Pennsylvania](Gamification - University of Pennsylvania | Coursera) -->
 
 **25 - Discussion 10.**
 
-**28 - Whole-Class Game Analysis.**  Based on the content of the previous classes we'll be looking to choose a game that the entire class can participate in critiquing during the following class.  The only requirement is that the game must be generally accessible to everyone in the class. (This is currently under reconsideration for pragmatic reasons, suggestions for a possible game _or_ a replacement topic are welcome.)
+**28 - Cheating.** We'll look at cheating in general and as it applies specifically to video games, drawing on work from [Suits](https://www.library.ualberta.ca/catalog/7346442), [Huizinga](https://www.library.ualberta.ca/catalog/2316239), and [Consalvo](https://www.library.ualberta.ca/catalog/7175806).  We'll also take a short, cursory look at what is known as the [Machiavellian intelligence hypothesis](https://www.library.ualberta.ca/results?q=Machiavellian+intelligence+hypothesis).  If you want a list of contemporary cheating practices in video games then look no farther than [Wikipedia](https://en.wikipedia.org/wiki/Cheating_in_video_games).
 
-**30 - Discussion 11.**
+**30 - Consequences of playing video games.** Whether it is single studies like [Hasan et. al., 2013](http://login.ezproxy.library.ualberta.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edswss&AN=000316373700006&site=eds-live&scope=site), or meta-analytic reviews like [Greitemeyer & Mügge, 2014](http://login.ezproxy.library.ualberta.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cmedm&AN=24458215&site=eds-live&scope=site), the evidence that experiencing violence and similar anti-social behaviours in video games changes player's attitudes and behaviours in the real world in the negative.  Of course there are studies to the contrary but as [Anderson points out, these are typically either poorly designed or within the expectations of randomness in small trials](http://public.psych.iastate.edu/caa/Video_Game_FAQs.html).  There are positives to playing video games though, [Bravelier](https://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games) reports improved 3D-spatial and tracking abilities brain and [Granic, Lobel, and Rutger](http://login.ezproxy.library.ualberta.ca/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edswss&AN=000335941000003&site=eds-live&scope=site) add even more beneficial outcomes to the list.  So, is this a mixed result or is there a clear way forward when it comes to offering parents, present or future, advice on raising their children in a world of almost inevitable video game exposure?
 
 ##### December
 
-**2 - Class selected subtopic.** Each of the major topics will conclude with a class selected subtopic that will be chosen, in-class, two classes prior.
+**2 - Discussion 11.** Two questions will be up for discussion today, one from each of the previous topics:
 
-**5 - Discussion 12.**
+1. When, if ever, is cheating ok in video games?
+2. After making an assessment of the research on both sides of the divide and while keeping your eye on the complications of the real world, what advice should be offered to parents wondering about how they should raise their children in a world that surrounds them with video games?
 
-**7 - Review.**
+**5 - Topic Review.**
+
+**7 - Course Review.**
 
 #### Final Exam
 
