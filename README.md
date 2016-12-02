@@ -157,6 +157,9 @@ Etherpad for today's discussion is [HERE](https://public.etherpad-mozilla.org/p/
 1. When, if ever, is cheating acceptable in video games?
 2. After making an assessment of the research on both sides of the divide and while keeping your eye on the complications of the real world, what advice should be offered to parents wondering about how they should raise their children in a world that surrounds them with video games?
 
+Etherpad for this discussion is [HERE](https://public.etherpad-mozilla.org/p/UofA-Phil366-F16-Discussion11).
+
+
 **5 - Topic Review.**
 
 **7 - Course Review.**
