@@ -1,7 +1,7 @@
 # Discussion 9 General Comments
 
-## The political change via social media question
-		Can there be a feminist war game?  If you think there can then you need to make sure that your answer does three things:
+
+	Can there be a feminist war game?  If you think there can then you need to make sure that your answer does three things:
 
 		1. Proves this to be the case by outlining such a game.
 		2. Tying together that outline to the goals of modern, third-wave, feminism as outlined in class.
