@@ -8,9 +8,12 @@
 3. Many of you need to consider the degree to which cheating can harm a person in a single player game, possibly by robbing them of a sense of accomplishment or real skill development.  This might be a small thing but it is more that "no harm".  Also note a psychological effect sometimes referred to as "buyer's remorse";  just because you want something now doesn't mean that you'll be happy when you get it.  So, it seems possible that a present-self can harm a future-self.
 4. This should be an _easy topic_ to put pictures in.
 5. It seems that more than a few of you would benefit from reading [_The Grasshopper_, Ch. 4](https://www.library.ualberta.ca/catalog/7346442), since it would clear up the confusion between spoilsports and cheaters.  It's short.
-6. Interesting that so many of you state that when money is on the line that cheating becomes unacceptable.  What is it that gives money this property and why is it not extended to play that does not have financial stakes?
+6. Interesting that so many of you state that when money is on the line that cheating becomes unacceptable.  What is it that gives money this property and why is it not extended to play that does not have financial stakes?  What happened to honour?
 7. Specific examples, those that name particular games and outline the particular cheats done, should be used over general comments like "people cheat in action games by breaking the rules".
 8. Please stop saying things like "someone might say..." No.  Find someone who actually thinks/says it and quote them.  If you don't do this you are in danger of arguing against a point that isn't really a point.
+9. Using cheat codes and walkthroughs too often can hurt a player's experience as well.  What many of you are likely after is optimal flow.  See [this Wikipedia article](https://en.wikipedia.org/wiki/Flow_(psychology)) and this accompanying image: 
+
+	![flow chart of optimal experience](http://refractedpixel.com/indiedevstories/wp-content/uploads/2011/03/flow-channel1.png =500x).
 
  .
 
