@@ -1,7 +1,7 @@
 # Discussion 8 General Comments
 
-## The political change via social media question
-Use a critical theory approach and assess the ability of social media platforms like Twitter and Facebook to bring about political change. Make sure that you are taking into account Fuchs position on this but also to make sure that this is extended/challenged.
+## The Internet as a Human Right Question
+_Is/(should) internet access (be) a new basic human right?_
 
 1.  Look around for how many people in the world actually have access to the Internet (and don't just take the first answer you find, [here's a place _to start_](http://ahumanright.org/)).  Use this reality to ground your arguments.  And don't just stop at the numbers.  Consider the living conditions many face.  Granting that Internet access _is_ a right and that this can be fulfilled by walking to the local library or community centre makes sense in our community but offering it as a global solution shows a very narrow view of the world.
 2.  You will need to define what a right is (simply asserting a dictionary definition isn't going to cut it).  Some of you want to go farther and distinguish between different sorts of rights that Internet access might belong to (or not), such as basic rights.  If you are going to do this then you need to be clear about what distinguishes each type of right from the other(s) and why you are considering Internet access as a right of this type.
@@ -18,3 +18,8 @@ Use a critical theory approach and assess the ability of social media platforms 
 13.  You need to consider arguments against your position (this is part of being dialectical _and_ being a good reasoner in general).  You've already been given one in an article that you were to read before class.  Use it.
 14.  You might find it useful to consider [what a watchdog organization like the EFF has to say about the Trans-Pacific Partnership and what it will do to your digital rights](https://www.eff.org/deeplinks/2015/12/how-tpp-will-affect-you-and-your-digital-rights).  These moves by governments seem to stand in stark contrast to the UN's position.  Just another contradiction of capitalism or is something else going on here?  Consider how little about this anyone knows...
 15.  Note that the UN does not actually declare Internet access a right.  Rather, [the document](https://www.article19.org/data/files/Internet_Statement_Adopted.pdf) states that the UN's position is that human rights should be respected on the Internet.  Check that this is so.
+
+# The Internet as a special media
+_Is there something special about the Internet—and important technologies built on top of it—that promotes dysfunction or otherwise modifies individuals/cultures to degrees and in ways that other media are not capable of?_
+
+No one chose to write on this question so there are no general comments in response to the drafts.
