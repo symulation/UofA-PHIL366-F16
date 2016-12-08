@@ -10,7 +10,7 @@ _Use a critical theory approach and assess the ability of social media platforms
 3.  Note the existence of an echo chamber effect which leads to the gathering together of like-minded people, sheilding them from challenging ideas and leading to a false view of the state of the world.  You can find good articles about this.
 4.  It should be pretty straightforward to find examples beyond what Fuchs lists of people asserting that social media is "revolutionary".  Have a look a these and consider the extent to which they are.
 5.  If you are looking for some fresh arguments about the power of social media to bring about political change then look no farther than the US election.
-6.  There are studies that can show the influence of social media on politics (or the lack there of).  Find them.  Use them.
+6.  There are studies that can show the influence of social media on politics (or the lack there of).  Find them.  Use them.  [Here is an example of a massive one](http://www.nature.com/nature/journal/v489/n7415/full/nature11421.html) (If you look for it through the library you'll get full access with your CCID).
 
 ## The social media and communication relationship question
 _Use a critical theory approach to assess the communication styles/modes/methods that are promoted by social media platforms like Twitter (short/terse messaging) and Facebook ("likes" and now emoticon responses). Yes, Fuchs needs to be drawn on to make this assessment but keep in mind earlier authors like Baudrillard and Enzensberger._
