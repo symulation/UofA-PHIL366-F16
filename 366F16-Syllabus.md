@@ -41,6 +41,8 @@ The theory centred evaluation option is the default.  Those wishing to opt-in to
 | Three best pieces of revised thinking | 60% (3 x 20%) | see description |
 | Final exam | 30% | December 15 |
 
+<!-- Need a policy about how to handle refined writing that comes in without a draft written before it.  Possibly a "0" on the "Continue & Extend" portion in order to put value on the process. -->
+
 Five pieces of draft thinking must be submitted over the term that are further developments of in-class discussions.  To count towards the "all or nothing" criteria these initial pieces of writing must be at least 500 words each and be assessed as "satisfactory" based on the draft assessment rubric.  These must be submitted within one week of the conclusion of the in-class discussion that they draw on.  These five pieces of writing will be assessed on an "all or nothing" basis.  If all five pieces are submitted and meet the criteria then the full 10% will be assessed.  If even one piece is subpar or not submitted then the mark given for this section will be 0.  If a sumbitted draft did not receive a "satisfactory" overall then it can be revised and resubmitted _once_.  Students are welcome to submit drafts for more than five in-class discussion topics.
 
 At least three pieces of draft thinking---one from each of topics 2, 3, and 4---must be revised and expanded to at least 1000 words based on the comments received and resubmitted.  At most _one_ of these can be further revised.  These revisions must be resubmitted no later than two weeks after either the return of the draft with comments _or_ the conclusion of the topic as a whole, whichever is later.  The best revised piece from each topic will make the contribution to the final grade.
