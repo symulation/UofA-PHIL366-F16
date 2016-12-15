@@ -21,14 +21,23 @@
  1. Fill in the blanks.  Just write in the most appropriate word/name.
 
  a) _________________ is a game that was played by Jarish
+ 
  b) _________________ is the first name of the person who delivered the Mother of All Demos
+ 
  c) _________________ wrote about the tight control of photocopiers in the Soviet Union
+ 
  d) _________________ was the first computer game developed by students at MIT
+ 
  e) _________________ was the “military industrial complex” cautioning US president
+ 
  f) _________________ are the colours of hats that hackers are usually assigned.
+ 
  g) _________________ can be considered the first graphical MMORPG
+ 
  h) _________________ is the name of the prison designed by Jeremy Bentham
+ 
  i) _________________ is the system that ran a script to impersonate a therapist
+ 
  j) _________________ is the person best associated with phrases like “Put a ship here”.
 
  2. Matching.  Match the letter corresponding to the idea in the second column to the name in the first column (10 points total, 1 point each):
@@ -74,7 +83,7 @@ Each question should be answerable in about 5 focused sentences.
 
 4. What are the main points of critical theory?  Choose one social media looked at over the term and summarize the results of a critical theory analysis of that tool/app.
 
-5. What does Baudrillard mean when he argues that reciprocity is more important than reflexivity and who is he writing in response to?  Provide an example to support the position of each theorist.
+5. What does Baudrillard mean when he argues that reciprocity is more important than reversibility and who is he writing in response to?  Provide an example to support the position of each theorist.
 
 6. What are the categories that rights are often divided amongst?  Is the UN’s stance on Internet Access as a human right?  Whether it is a right or not what are the properties that you expect this right to have
 
@@ -120,3 +129,4 @@ You are not be required to cite ideas directly in a formal way during this exam�
 6. Drawing on X sources from across the entire term argue for or against one of the following claims:
 	a. Video games should have a significant role to play in both formal and informal education.
 	b. Social media has made important changes in how we organize ourselves and communicate.
+	c. Computers have made a significant impact, perhaps the most significant of all technology, on our culture.
